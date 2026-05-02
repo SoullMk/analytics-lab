@@ -20,4 +20,4 @@ Cada projeto aborda um problema real ou simulado de negócio, aplicando Python, 
 
 **Kaike Martins**
 Estudante de Ciência de Dados — FMU São Paulo
-[LinkedIn](https://www.linkedin.com/in/kaikemarttins) · [GitHub](https://github.com/SoullMk) · [Currículo](https://raw.githubusercontent.com/SoullMk/Atividades-da-faculdade/main/Curriculo_Kaike_Martins.pdf)
+[LinkedIn](https://www.linkedin.com/in/kaikemarttins) · [GitHub](https://github.com/kaike-martins) · [Currículo](https://raw.githubusercontent.com/kaike-martins/Atividades-da-faculdade/main/Curriculo_Kaike_Martins.pdf)
